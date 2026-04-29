@@ -18,62 +18,39 @@ Il rimanente 6% degli script Ink è fatto di identificatori interni del motore n
 
 ## Installazione (utente finale)
 
-> Versione testata: Sable su Heroic Games Launcher (Linux + Wine). Su Windows / Steam dovrebbe funzionare con gli stessi passaggi, sostituendo i percorsi.
+### Pacchetto drop-in (consigliato)
 
-### 1. Scarica il pacchetto della mod
+Vai nella sezione [Releases](../../releases) e scarica `SableItalianMod-Bundle-vX.Y.Z.zip`. Il pacchetto include già BepInEx 6 e la mod: ti basta estrarlo nella cartella di Sable.
 
-Vai nella sezione [Releases](../../releases) e scarica l'ultimo `SableItalianMod-vX.Y.Z.zip`.
+**Windows / Steam:**
+1. Trova la cartella di Sable: clic destro sul gioco in Steam → *Gestisci* → *Sfoglia file locali*.
+2. Estrai tutto il contenuto del bundle dentro quella cartella (deve esserci `winhttp.dll` accanto a `Sable.exe`).
+3. Avvia il gioco.
 
-### 2. Installa BepInEx 6 IL2CPP nel gioco
+**Linux / Steam (Proton):**
+1. Estrai il bundle nella cartella di Sable.
+2. In Steam: clic destro → *Proprietà* → *Generale* → *Opzioni di avvio*, incolla:
+   ```
+   WINEDLLOVERRIDES="winhttp=n,b" %command%
+   ```
+3. Avvia il gioco.
 
-1. Scarica `BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.NNN.zip` da [https://builds.bepinex.dev/projects/bepinex_be](https://builds.bepinex.dev/projects/bepinex_be) (build "BE", **non** la stable).
-2. Estrai l'archivio nella cartella di Sable, ovvero la cartella che contiene `Sable.exe`.
-   - **Heroic + Wine:** tipicamente `~/Games/Heroic/Sable/`
-   - **Steam:** `<libreria Steam>/steamapps/common/Sable/`
-3. Avvia il gioco una volta e poi chiudilo: BepInEx genera la struttura `BepInEx/plugins/`, `BepInEx/interop/`, `BepInEx/config/`.
+**Linux / Heroic Games Launcher:**
+1. Estrai il bundle in `~/Games/Heroic/Sable/`.
+2. In Heroic: clic destro su Sable → *Settings* → *Advanced* → *Environment Variables* → *Add Variable*:
+   - Name: `WINEDLLOVERRIDES`
+   - Value: `winhttp=n,b`
+3. Avvia il gioco.
 
-### 3. Imposta il DLL override (solo Wine/Proton)
+La lingua selezionata nel menù di Sable può rimanere su **English** — la mod intercetta i testi in inglese e li sostituisce con la versione italiana. Se vedi ancora del testo in inglese, controlla `BepInEx/LogOutput.log` per i messaggi di errore del plugin.
 
-Su Wine devi forzare l'override di `winhttp.dll` aggiungendo la variabile d'ambiente al lancio del gioco.
+### Installazione manuale (utenti avanzati)
 
-**Heroic Games Launcher:**
-
-1. Tasto destro su Sable → *Settings* → *Advanced* → *Environment Variables*.
-2. Aggiungi:
-   - **Name:** `WINEDLLOVERRIDES`
-   - **Value:** `winhttp=n,b`
-
-**Steam Proton:** in Properties → Launch Options:
-```
-WINEDLLOVERRIDES="winhttp=n,b" %command%
-```
-
-### 4. Installa la mod
-
-Estrai il contenuto di `SableItalianMod-vX.Y.Z.zip` dentro:
+Se hai già BepInEx 6 IL2CPP installato in Sable, scarica solo `SableItalianMod-vX.Y.Z.zip` (senza bundle) ed estrailo in:
 ```
 <cartella di Sable>/BepInEx/plugins/SableItalianMod/
 ```
-
-La struttura finale deve essere:
-```
-Sable/
-├── Sable.exe
-├── winhttp.dll
-├── BepInEx/
-│   ├── plugins/
-│   │   └── SableItalianMod/
-│   │       ├── SableItalianMod.dll
-│   │       ├── it_strings.csv
-│   │       ├── it_items.csv
-│   │       └── sable_it.bin
-│   └── …
-└── …
-```
-
-### 5. Avvia il gioco
-
-La lingua selezionata nel menù di Sable può rimanere su **English** — la mod intercetta i testi in inglese e li sostituisce con la versione italiana. Se vedi ancora del testo in inglese, controlla `BepInEx/LogOutput.log` per i messaggi di errore del plugin.
+La struttura finale deve contenere `SableItalianMod.dll`, `it_strings.csv`, `it_items.csv`, `sable_it.bin` in quella cartella.
 
 ## Compilare la mod da sorgente
 
