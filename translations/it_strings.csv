@@ -1,0 +1,316 @@
+property,en,it
+TitleScreen_AnyButton,Press Any Button To Start,Premi un tasto qualsiasi per iniziare
+TitleScreen_ChangeProfile_Text,Change Profile,Cambia profilo
+TitleScreen_ContinueGame_Text,Continue,Continua
+TitleScreen_DeleteFile_BodyText,Would you like to delete this file?,Vuoi eliminare questo file?
+TitleScreen_DeleteFile_NoText,No,No
+TitleScreen_DeleteFile_YesText,Yes,Sì
+TitleScreen_EmptySaveFile,Empty,Vuoto
+TitleScreen_ExitGame_Text,Exit Game,Esci dal gioco
+TitleScreen_LoadGame_BodyText,Would you like to load this save file?,Vuoi caricare questo salvataggio?
+TitleScreen_LoadGame_NoText,No,No
+TitleScreen_LoadGame_Text,Load Game,Carica partita
+TitleScreen_LoadGame_YesText,Yes,Sì
+TitleScreen_NewGame_Text,New Game,Nuova partita
+TitleScreen_OverwriteGame_BodyText,Would you like to overwrite this file?,Vuoi sovrascrivere questo file?
+TitleScreen_OverwriteGame_NoText,No,No
+TitleScreen_OverwriteGame_YesText,Yes,Sì
+TitleScreen_QuitGame_BodyText,Are you sure you would like to exit the application?,Sei sicuro di voler uscire dall'applicazione?
+TitleScreen_QuitGame_NoText,No,No
+TitleScreen_QuitGame_YesText,Yes,Sì
+TitleScreen_SaveFileDisplay_Button_MasksCollectedText,Masks Collected: {0},Maschere raccolte: {0}
+TitleScreen_SaveFileDisplay_Button_PlayTimeText,Play Time: {0:D2}:{1:D2}:{2:D2},Tempo di gioco: {0:D2}:{1:D2}:{2:D2}
+TitleScreen_SaveFileDisplay_Text,Select File,Seleziona file
+TitleScreen_Settings_Text,Settings,Impostazioni
+TitleScreen_StartNewGame_BodyText,Would you like to start a new game?,Vuoi iniziare una nuova partita?
+TitleScreen_StartNewGame_NoText,No,No
+TitleScreen_StartNewGame_YesText,Yes,Sì
+TitleScreen_Wishlist_Text,Wishlist,Lista dei desideri
+SettingsScreen_Name,Settings,Impostazioni
+SettingsScreen_ListButton_Audio,Sound,Audio
+SettingsScreen_ListButton_Controls,Controls,Controlli
+SettingsScreen_ListButton_Credits,Credits,Crediti
+SettingsScreen_ListButton_Display,Display,Schermo
+SettingsScreen_ListButton_Language,Language,Lingua
+SettingsScreen_ListButton_Quality,Quality,Qualità
+SettingsScreen_ListButton_System,System,Sistema
+SettingsScreen_ControlSettings_CameraSensitivityButton_Name,Camera Sensitivity,Sensibilità telecamera
+SettingsScreen_ControlSettings_ControllerMappingDisplay_Title,Gamepad Controls,Comandi gamepad
+SettingsScreen_ControlSettings_ControllerRumbleButton_Name,Vibration,Vibrazione
+SettingsScreen_ControlSettings_ControllerRumble_Disabled,Disabled,Disattivata
+SettingsScreen_ControlSettings_ControllerRumble_Enabled,Enabled,Attivata
+SettingsScreen_ControlSettings_ControllerRumble_Weak,Weak,Leggera
+SettingsScreen_ControlSettings_HoldToAccelerateButton_Name,Hold to Accelerate,Tieni premuto per accelerare
+SettingsScreen_ControlSettings_HoldToHoverButton_Name,Hold to Hover,Tieni premuto per planare
+SettingsScreen_ControlSettings_InvertHorizontalAxisButton_Name,Invert Horizontal Axis,Inverti asse orizzontale
+SettingsScreen_ControlSettings_InvertVerticalAxisButton_Name,Invert Vertical Axis,Inverti asse verticale
+SettingsScreen_ControlSettings_ShowControlsButton_Name,Show Controls,Mostra comandi
+SettingsScreen_ControlSettings_SwitchOptions_Off_Name,Off,No
+SettingsScreen_ControlSettings_SwitchOptions_On_Name,On,Sì
+SettingsScreen_DisplaySettings_AntialiasingButton_Name,Antialiasing,Antialiasing
+SettingsScreen_DisplaySettings_AntialiasingButton_None,Off,Disattivato
+SettingsScreen_DisplaySettings_AntialiasingButton_On,Enabled,Attivato
+SettingsScreen_DisplaySettings_DrawDistanceButton_Name,Draw distance,Distanza visiva
+SettingsScreen_DisplaySettings_DrawDistance_Default,Default,Predefinita
+SettingsScreen_DisplaySettings_DrawDistance_Low,Low,Bassa
+SettingsScreen_DisplaySettings_DrawDistance_VeryHigh,Very high,Molto alta
+SettingsScreen_DisplaySettings_FieldOfViewButton_Name,Field of view,Campo visivo
+SettingsScreen_DisplaySettings_FramerateButton_Name,Framerate,Framerate
+SettingsScreen_DisplaySettings_Framerate_Uncapped,Uncapped,Senza limite
+SettingsScreen_DisplaySettings_Framerate_VSync,VSync,VSync
+SettingsScreen_DisplaySettings_Framerate_VSyncHalf,VSync/2,VSync/2
+SettingsScreen_DisplaySettings_FullscreenModeButton_Name,Fullscreen On,Schermo intero
+SettingsScreen_DisplaySettings_HighContrastButton_Name,Colours,Colori
+SettingsScreen_DisplaySettings_HighContrast_Custom,Custom,Personalizzati
+SettingsScreen_DisplaySettings_HighContrast_Disabled,Default,Predefiniti
+SettingsScreen_DisplaySettings_HighContrast_Enabled,High visibility,Alta visibilità
+SettingsScreen_DisplaySettings_LODButton_Name,Level of detail,Livello di dettaglio
+SettingsScreen_DisplaySettings_LOD_Default,Default,Predefinito
+SettingsScreen_DisplaySettings_LOD_High,High,Alto
+SettingsScreen_DisplaySettings_LOD_Low,Low,Basso
+SettingsScreen_DisplaySettings_LineWidthButton_Name,Line weight,Spessore linee
+SettingsScreen_DisplaySettings_LineWidth_Default,Default,Predefinito
+SettingsScreen_DisplaySettings_LineWidth_Thick,Thick,Spesso
+SettingsScreen_DisplaySettings_LineWidth_Thin,Thin,Sottile
+SettingsScreen_DisplaySettings_PhotoMode_Name,Photo Mode,Modalità foto
+SettingsScreen_DisplaySettings_PhotoMode_Off,Off,Disattivata
+SettingsScreen_DisplaySettings_PhotoMode_On,Enabled,Attivata
+SettingsScreen_DisplaySettings_ResolutionButton_Name,Resolution,Risoluzione
+SettingsScreen_DisplaySettings_ShadowQualityButton_Name,Shadows quality,Qualità ombre
+SettingsScreen_DisplaySettings_ShadowQuality_Default,Default,Predefinita
+SettingsScreen_DisplaySettings_ShadowQuality_Low,Low,Bassa
+SettingsScreen_DisplaySettings_ShadowQuality_Medium,Medium,Media
+SettingsScreen_DisplaySettings_TextScaleButton_Name,Text Scale,Dimensione testo
+SettingsScreen_DisplaySettings_TextScale_Default,Default,Predefinita
+SettingsScreen_DisplaySettings_TextScale_ExtraLarge,Extra Large,Molto grande
+SettingsScreen_DisplaySettings_TextScale_Large,Large,Grande
+SettingsScreen_EasyFishing,Easy Fishing,Pesca facilitata
+SettingsScreen_ExitGame_BodyText,Would you like to exit to the title?,Vuoi tornare alla schermata iniziale?
+SettingsScreen_ExitGame_NoChoiceText,No,No
+SettingsScreen_ExitGame_YesChoiceText,Yes,Sì
+SettingsScreen_LanguageOptions_BrasilianPortuguese,Português (Brasil),Português (Brasil)
+SettingsScreen_LanguageOptions_ChineseSimplified,简体中文,简体中文
+SettingsScreen_LanguageOptions_ChineseTraditional,繁體中文,繁體中文
+SettingsScreen_LanguageOptions_English,English,English
+SettingsScreen_LanguageOptions_French,Français,Français
+SettingsScreen_LanguageOptions_German,Deutsch,Deutsch
+SettingsScreen_LanguageOptions_Italian,Italiano,Italiano
+SettingsScreen_LanguageOptions_Japanese,日本語,日本語
+SettingsScreen_LanguageOptions_Korean,한국어,한국어
+SettingsScreen_LanguageOptions_Polish,Polski,Polski
+SettingsScreen_LanguageOptions_Russian,Русский,Русский
+SettingsScreen_LanguageOptions_Spanish,Español,Español
+SettingsScreen_LanguageSettings_LanguageButton_Name,Language,Lingua
+SettingsScreen_SaveGame_BodyText,Would you like to save over the active save slot?,Vuoi sovrascrivere il salvataggio attivo?
+SettingsScreen_SaveGame_NoChoiceText,No,No
+SettingsScreen_SaveGame_YesChoiceText,Yes,Sì
+SettingsScreen_SoundSettings_MusicButton_Name,Music Volume,Volume musica
+SettingsScreen_SoundSettings_SfxButton_Name,SFX Volume,Volume effetti
+SettingsScreen_SystemSettings_ExitToTitleButton_Name,Exit To Title,Torna al menu principale
+SettingsScreen_SystemSettings_SaveGameButton_Name,Save,Salva
+SettingsScreen_Credits_ShowCreditsButton_Name,Show Credits,Mostra crediti
+SettingsScreen_WindowingOptions_ExclusiveFullScreen,Exclusive Fullscreen,Schermo intero esclusivo
+SettingsScreen_WindowingOptions_FullScreenWindow,Fullscreen Window,Finestra a schermo intero
+SettingsScreen_WindowingOptions_MaximizedWindow,Maximised Window,Finestra massimizzata
+SettingsScreen_WindowingOptions_Windowed,Windowed,A finestra
+ButtonPrompt_Back,Back,Indietro
+ButtonPrompt_Cancel,Cancel,Annulla
+ButtonPrompt_CloseScreen,Close Screen,Chiudi
+ButtonPrompt_Confirm,Confirm,Conferma
+ButtonPrompt_Delete,Delete,Elimina
+ButtonPrompt_FollowQuest,Follow Quest,Segui missione
+ButtonPrompt_Select,Select,Seleziona
+ButtonPrompt_UnfollowQuest,Unfollow Quest,Non seguire missione
+ButtonPrompt_ViewQuestLog,View Quest Log,Vedi registro missioni
+ButtonPrompt_Wear,Wear,Indossa
+MapScreen_AddMarker,Add Marker,Aggiungi indicatore
+MapScreen_ClearAllMarkers,Clear All Markers,Rimuovi tutti gli indicatori
+MapScreen_ClearAllMarkersCancel,No,No
+MapScreen_ClearAllMarkersConfirm,Yes,Sì
+MapScreen_ClearAllMarkersModal,Clear all markers?,Rimuovere tutti gli indicatori?
+MapScreen_FastTravel,Fast Travel,Viaggio rapido
+MapScreen_FastTravelCancel,No,No
+MapScreen_FastTravelConfirm,Yes,Sì
+MapScreen_FastTravelModal,Travel to this location?,Viaggiare in questo luogo?
+MapScreen_Name,Map,Mappa
+MapScreen_RemoveMarker,Remove Marker,Rimuovi indicatore
+TradingScreen_ContextualText_BuyingItems,"How many would you like to buy, Glider?","Quanti ne vuoi comprare, Glider?"
+TradingScreen_ContextualText_MerchantCannotAfford,Aha! I'm all out of cuts!,Aha! Ho finito i cuts!
+TradingScreen_ContextualText_MerchantHasNothingToSell,Ah! I seem to have nothing left for you! Hah!,Ah! Pare che non mi sia rimasto nulla per te! Hah!
+TradingScreen_ContextualText_PlayerCannotAfford,I don't think you have the cuts for that!,Non credo tu abbia abbastanza cuts!
+TradingScreen_ContextualText_SellingItems,"Oh, and how many are you selling?","Oh, e quanti ne vendi?"
+TradingScreen_Header_Buy,Buy,Compra
+TradingScreen_Header_Sell,Sell,Vendi
+TradingScreen_ItemConfirmationDisplay_ConfirmButton_Text,Confirm,Conferma
+TradingScreen_ItemConfirmationDisplay_TotalText,Total,Totale
+TradingScreen_ListButton_General,General,Generale
+TradingScreen_MoneyNameText_Merchant,Merchant,Mercante
+TradingScreen_MoneyNameText_Player,Sable,Sable
+InventoryScreen_ListButton_Badges,Badges,Distintivi
+InventoryScreen_ListButton_BikeParts,Bike Parts,Parti hoverbike
+InventoryScreen_ListButton_Clothing,Clothing,Abbigliamento
+InventoryScreen_ListButton_Fishing,Fishing,Pesca
+InventoryScreen_ListButton_General,General,Generale
+InventoryScreen_ListButton_QuestItems,Quest,Missione
+InventoryScreen_Name,Inventory,Inventario
+QuestScreen_CompletedNumber,COMPLETED: {0},COMPLETATE: {0}
+QuestScreen_ListButton_Letters,Letters,Lettere
+QuestScreen_ListButton_MainQuests,Main,Principali
+QuestScreen_ListButton_Rumours,Rumours,Voci
+QuestScreen_Name,Quests,Missioni
+BikeCustomizationScreen_Acceleration,Acceleration,Accelerazione
+BikeCustomizationScreen_Handling,Handling,Manovrabilità
+BikeCustomizationScreen_HeaderText,Bike Shop,Officina hoverbike
+BikeCustomizationScreen_MaxSpeed,Max Speed,Velocità massima
+ChestPopUpScreen_BodyText_Money,"A cache of {0} cuts! Made from metal harvested from crashed ships, they have holes punched through the middle where a rope can be slid through for easy and convenient transportation. ","Una scorta di {0} cuts! Forgiati dal metallo raccolto dai relitti delle navi, hanno un foro al centro per infilarci una corda e trasportarli con facilità. "
+ChestPopUpScreen_ExtraText_Item,You got 1 {0}!,Hai ottenuto 1 {0}!
+ChestPopUpScreen_TitleText_Money,Cuts,Cuts
+ChumLair_StaminaIncreased,Stamina increased!,Vigore aumentato!
+ClothingScreen_Name,Clothing,Abbigliamento
+DialogueScreen_AnswerBox_Header,Answer,Risposta
+ItemNotificationHeader_Text,New Item,Nuovo oggetto
+QuestCompletedNotification_HeaderText,Quest Completed,Missione completata
+QuestUpdatedNotification_HeaderText,Quest Updated,Missione aggiornata
+FishingHud_Release,Release!,Rilascia!
+ControllerMappingDisplay_BeginFishing,Begin Fishing,Inizia a pescare
+ControllerMappingDisplay_CallBikeButtonText,Call Bike,Richiama hoverbike
+ControllerMappingDisplay_ChangeBikeMode,Change Bike Mode,Cambia modalità hoverbike
+ControllerMappingDisplay_CompassButtonText,Compass,Bussola
+ControllerMappingDisplay_CrouchButtonText,Crouch,Accovacciati
+ControllerMappingDisplay_InteractButtonText,Interact,Interagisci
+ControllerMappingDisplay_JumpButtonText,Jump (Hold To Hover),Salta (tieni premuto per planare)
+ControllerMappingDisplay_MapButtonText,Map,Mappa
+ControllerMappingDisplay_MenuButtonText,Menu,Menu
+ControllerMappingDisplay_MoveBack,Move Back,Indietro
+ControllerMappingDisplay_MoveButtonText,Move,Muoviti
+ControllerMappingDisplay_MoveCameraButtonText,Move Camera,Muovi telecamera
+ControllerMappingDisplay_MoveForward,Move Forward,Avanti
+ControllerMappingDisplay_MoveLeft,Move Left,Sinistra
+ControllerMappingDisplay_MoveRight,Move Right,Destra
+ControllerMappingDisplay_NavigatorButtonText,Navigator,Navigatore
+ControllerMappingDisplay_PhotoMode,PhotoMode,Modalità foto
+ControllerMappingDisplay_PressButton,Press Button,Premi tasto
+ControllerMappingDisplay_ResetToDefault,Reset to default,Ripristina valori predefiniti
+ControllerMappingDisplay_SitButtonText,Sit,Siediti
+ControllerMappingDisplay_SprintButtonText,Sprint,Scatta
+ControllerMappingDisplay_Throw,Throw,Lancia
+Controls_ExitAndSave,Yes,Sì
+Controls_ExitWithoutSaving,Exit without saving,Esci senza salvare
+Controls_SaveChanges,Save changes?,Salvare le modifiche?
+Controls_Shift,Shift (Hold),Shift (tieni premuto)
+Controls_Space,Space Bar,Barra spaziatrice
+ActionTip_Accelerate,Accelerate,Accelera
+ActionTip_Aim,Aim,Mira
+ActionTip_CallBike,Call Out,Richiama
+ActionTip_CastOff,Cast Off (hold),Lancia (tieni premuto)
+ActionTip_Compass,Compass (hold button),Bussola (tieni premuto)
+ActionTip_Crouch,Crouch,Accovacciati
+ActionTip_CustomMarker,Navigator,Navigatore
+ActionTip_ExitCustomMarker,Exit,Esci
+ActionTip_ExitStrafe,Drive,Guida
+ActionTip_GetOff,Get Off,Scendi
+ActionTip_MoveCustomMarkerCursor,Move Cursor,Muovi cursore
+ActionTip_NavigatorToggleSensitivity,Toggle Sensitivity,Cambia sensibilità
+ActionTip_PhotoModeCameraToggle,Camera Toggle,Cambia telecamera
+ActionTip_PhotoModeExit,Exit,Esci
+ActionTip_PhotoModeMove,Move,Muovi
+ActionTip_PhotoModeNavDown,Down,Giù
+ActionTip_PhotoModeNavUp,Up,Su
+ActionTip_PhotoModeOrbit,Orbit,Orbita
+ActionTip_PhotoModeResetTab,Reset Tab,Reimposta scheda
+ActionTip_PhotoModeSelect,Select,Seleziona
+ActionTip_PhotoModeShowHideUI,Hide/Show,Nascondi/Mostra
+ActionTip_PlaceCustomMarker,Place Marker,Posiziona indicatore
+ActionTip_PutDown,Put Down,Posa
+ActionTip_Reel,Reel In,Recupera
+ActionTip_RemoveCustomMarker,Remove Marker,Rimuovi indicatore
+ActionTip_Steer,Steer,Sterza
+ActionTip_StopFishing,Stop Fishing,Smetti di pescare
+ActionTip_Strafe,Strafe,Sposta
+ActionTip_StrafeMove,Move,Muovi
+ActionTip_Throw,Throw,Lancia
+ExplanationTip_BikeCompass_Description,"When you're not riding it, your hoverbike will appear as a blue icon on your compass.","Quando non la stai cavalcando, la tua hoverbike apparirà come icona blu sulla bussola."
+ExplanationTip_BikeCompass_Title,Don't lose your bike!,Non perdere la hoverbike!
+ExplanationTip_Climbing_Description,Move towards a wall to begin climbing. Keep an eye on your stamina!,Avvicinati a una parete per iniziare ad arrampicarti. Tieni d'occhio il vigore!
+ExplanationTip_Climbing_Title,Climbing,Arrampicata
+ExplanationTip_Compass_Description,"Press and hold <input=Compass>  to open your Compass. If you are tracking a quest, the white markers point towards your current objectives. You can track a quest in your quest log.","Tieni premuto <input=Compass> per aprire la bussola. Se stai seguendo una missione, gli indicatori bianchi puntano agli obiettivi attuali. Puoi seguire una missione dal registro missioni."
+ExplanationTip_Compass_Title,Find Your Way with the Compass,Trova la strada con la bussola
+ExplanationTip_Crouching_Description,Press <input=Crouch> to Crouch,Premi <input=Crouch> per accovacciarti
+ExplanationTip_Crouching_Title,Crouching,Accovacciarsi
+ExplanationTip_CustomMarkerTutorial_Description,Press <input=Navigator> to use the Navigator to mark interesting landmarks to appear on your compass. You can also add and remove markers from the map screen. Try placing a marker on the ships Sizo pointed out to you.,Premi <input=Navigator> per usare il Navigatore e segnare punti di interesse sulla bussola. Puoi aggiungere e rimuovere indicatori anche dalla mappa. Prova a piazzare un indicatore sulle navi che ti ha mostrato Sizo.
+ExplanationTip_CustomMarkerTutorial_Title,Using your Navigator,Usare il Navigatore
+ExplanationTip_FastTravel_Description,"You've unlocked a piece of the map! You can navigate to the <b>map screen</b> in the <b>pause menu</b>.<br>Once you have visited a place, you can <b>fast travel</b> to that location using the <b>map screen</b>. Your <b>hoverbike</b> will also travel with you.","Hai sbloccato un pezzo di mappa! Puoi raggiungere la <b>schermata mappa</b> dal <b>menu di pausa</b>.<br>Una volta visitato un luogo, puoi usare il <b>viaggio rapido</b> da quella stessa <b>mappa</b>. Anche la tua <b>hoverbike</b> ti seguirà."
+ExplanationTip_FastTravel_Title,Fast Travel,Viaggio rapido
+ExplanationTip_Fishing_Description,Press <input=FishingToggle> to get out your fishing rod. You can use it to catch the fish that live in the sands.,Premi <input=FishingToggle> per estrarre la canna da pesca. Puoi usarla per catturare i pesci che vivono nelle sabbie.
+ExplanationTip_Fishing_Title,Fishing,Pesca
+ExplanationTip_Gliding_Description,Press and hold <input=Jump> to glide in midair.,Tieni premuto <input=Jump> per planare a mezz'aria.
+ExplanationTip_Gliding_Title,Gliding,Planare
+ExplanationTip_Jumping_Description,Press <input=Jump> to jump.,Premi <input=Jump> per saltare.
+ExplanationTip_Jumping_Title,Jumping,Saltare
+ExplanationTip_Sprinting_Description,Hold down <input=Sprint> to sprint whilst moving around. You can only sprint whilst you have enough stamina.,Tieni premuto <input=Sprint> per scattare mentre ti muovi. Puoi scattare solo finché hai abbastanza vigore.
+ExplanationTip_Sprinting_Title,Sprinting,Scattare
+ExplanationTip_Walking_Description,Use the <input=Move> to move Sable.,Usa <input=Move> per muovere Sable.
+ExplanationTip_Walking_Title,Moving Sable,Muovere Sable
+SystemMessage_Button_Confirm,Confirm,Conferma
+SystemMessage_Button_Continue,Continue,Continua
+SystemMessage_Button_No,No,No
+SystemMessage_Button_Yes,Yes,Sì
+SystemMessage_CancelSave,Cancel saving?,Annullare il salvataggio?
+SystemMessage_ChangeProfile,Change profile,Cambia profilo
+SystemMessage_ContinueWithoutLoading,Continue without loading?,Continuare senza caricare?
+SystemMessage_ContinueWithoutSaving,Continue without saving?,Continuare senza salvare?
+SystemMessage_ControllerDisconnected,Controller disconnected | Please reconnect your controller,Controller disconnesso | Riconnetti il controller
+SystemMessage_ControllerDisconnected_PS4,Please reconnect your DUALSHOCK®4 Wireless Controller,Riconnetti il controller wireless DUALSHOCK®4
+SystemMessage_ControllerDisconnected_PS5,Please reconnect your wireless controller,Riconnetti il controller wireless
+SystemMessage_ControllerReconnected,Controller reconnected | Confirm to continue,Controller riconnesso | Conferma per continuare
+SystemMessage_ControllerReconnected_PS4,DUALSHOCK®4 Wireless Controller Reconnected | Confirm to continue,Controller wireless DUALSHOCK®4 riconnesso | Conferma per continuare
+SystemMessage_ControllerReconnected_PS5,Wireless controller reconnected | Confirm to continue,Controller wireless riconnesso | Conferma per continuare
+SystemMessage_DataCorruptedDelete,Delete corrupt data?,Eliminare i dati corrotti?
+SystemMessage_DataCorruptedOverride,Local data corrupted | Delete and override?,Dati locali corrotti | Eliminare e sovrascrivere?
+SystemMessage_DataCorruptedRetry,Local data corrupted | Retry load?,Dati locali corrotti | Riprovare il caricamento?
+SystemMessage_GameSuspendedWarning,Game was suspended | Confirm to continue,Gioco sospeso | Conferma per continuare
+SystemMessage_NewUserRestart,New active user | Restarting...,Nuovo utente attivo | Riavvio in corso...
+SystemMessage_RetryLoad,Retry loading?,Riprovare il caricamento?
+SystemMessage_UserChangeDataLossWarning,Are you sure you want to change profile? | Unsaved progress will be lost,Sei sicuro di voler cambiare profilo? | I progressi non salvati andranno persi
+SystemMessage_UserMissing,No current user | Progress will not be saved,Nessun utente attivo | I progressi non saranno salvati
+PhotoModeScreen_Camera_Filters_BWFog,Black and white fog,Nebbia bianco e nero
+PhotoModeScreen_Camera_Filters_EdgesOnly,Outlines,Solo contorni
+PhotoModeScreen_Camera_Filters_EdgesOnlyWhite,White outlines,Contorni bianchi
+PhotoModeScreen_Camera_Filters_Hard3D,3D Sim,Simulazione 3D
+PhotoModeScreen_Camera_Filters_Monochrome,Monochrome,Monocromatico
+PhotoModeScreen_Camera_Filters_Name,Filter,Filtro
+PhotoModeScreen_Camera_Filters_NoEdges,Colour only,Solo colore
+PhotoModeScreen_Camera_Filters_None,None,Nessuno
+PhotoModeScreen_Camera_Filters_SableIsolatio,Sable isolation,Isolamento di Sable
+PhotoModeScreen_Camera_Filters_ShadowsOnly,Shadows only,Solo ombre
+PhotoModeScreen_Camera_Filters_ShadowsWithOutlines,Rough and sketchy,Bozza approssimativa
+PhotoModeScreen_Camera_Filters_Soft3D,3D shaded,3D ombreggiato
+PhotoModeScreen_Camera_Filters_WBFog,White and black fog,Nebbia nero e bianco
+PhotoModeScreen_Control_ColourProfileInfluence,Colour Profile Influence,Influenza profilo colore
+PhotoModeScreen_Control_Fov,FOV,FOV
+PhotoModeScreen_Control_Sable,Sable,Sable
+PhotoModeScreen_Control_SablePose,Sable Pose,Posa di Sable
+PhotoModeScreen_Control_SablePose_None,Off,Disattivata
+PhotoModeScreen_Control_Show_Ui,Show UI,Mostra interfaccia
+PhotoModeScreen_Control_Simoon,Simoon,Simoon
+PhotoModeScreen_Control_Supersize,Super size,Supersize
+PhotoModeScreen_Control_Supersize_1x,1x,1x
+PhotoModeScreen_Control_Supersize_2x,2x,2x
+PhotoModeScreen_Control_Supersize_4x,4x,4x
+PhotoModeScreen_Control_Supersize_8x,8x,8x
+PhotoModeScreen_Control_Tilt,Tilt,Inclinazione
+PhotoModeScreen_Control_TimeOfDay,Time of Day,Ora del giorno
+PhotoModeScreen_Control_Zoom,Zoom,Zoom
+PhotoModeScreen_SwitchOptions_Off_Name,Off,No
+PhotoModeScreen_SwitchOptions_On_Name,On,Sì
+PhotoModeScreen_Tab_CameraSettings,Camera Settings,Impostazioni telecamera
+PhotoModeScreen_Tab_CharacterSettings,Character,Personaggio
+PhotoModeScreen_Tab_LightingSettings,Lighting,Illuminazione
+PS5_MainActivity_Description,Return to the Ibexii and choose your mask,Torna agli Ibexii e scegli la tua maschera
+PS5_MainActivity_Title,Find Yourself,Trova te stesso
+QuestStartedNotification_HeaderText,Quest Started,Missione iniziata
+InventoryScreen_ListButton_KeyItems,Key,Chiave
+SettingsScreen_ControlSettings_KeyboardMappingDisplay_Title,Keyboard Controls,Comandi tastiera
+SettingsScreen_DisplaySettings_DrawDistance_Medium,Medium,Media
+InventoryScreen_Name,Inventory,Inventario
+SettingsScreen_Name,Settings,Impostazioni

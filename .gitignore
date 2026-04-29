@@ -1,0 +1,38 @@
+# Build output
+SableItalianMod/bin/
+SableItalianMod/obj/
+SableItalianMod/translations/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Decompiled game data — NON ridistribuibile (proprietà Shedworks/Raw Fury)
+il2cpp_dump/
+cpp2il_out/
+extracted/
+
+# External tools (scaricabili a parte)
+tools/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local artifacts
+*.log
+*.png
+*.jpg
+*.jpeg
+en_provider_keys.csv
+en_strings.csv
+it_titlescreen_proposal.csv
